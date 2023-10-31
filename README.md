@@ -14,7 +14,7 @@ This Terraform module is designed to create structured labels for resources with
 
 ## Introduction
 
-The "labels" Terraform module allows you to define and manage labels for your resources in a structured manner. Labels are essential for resource organization and identification, and this module provides an easy way to create and manage them.
+The labels Terraform module allows you to define and manage labels for your resources in a structured manner. Labels are essential for resource organization and identification, and this module provides an easy way to create and manage them.
 
 ## Usage
 
